@@ -1,5 +1,7 @@
 # Philosophers
 
+*[Version française](README.fr.md)*
+
 The dining philosophers problem in C with POSIX threads and mutexes. School 19 (42 network) project.
 
 N philosophers sit around a table with one fork between each pair. A philosopher needs both forks to eat,
